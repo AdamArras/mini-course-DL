@@ -11,8 +11,8 @@ The first one is a **Python and Jupyter Notebook refresher**, written in **Frenc
 | Lesson | Topic |
 |--------|-------|
 | Lesson 1 | Python & Jupyter Refresher (in French) |
-| Lesson 2 | Multilayer Perceptron from scratch |
-| Lesson 3 | ?? |
+| Lesson 2 | One-layer Perceptron from scratch |
+| Lesson 3 | MLP (Multi-layer Perceptron) |
 | Lesson 4 | ?? |
 
 Notebooks are located in the `notebooks/` directory.
@@ -20,7 +20,7 @@ Notebooks are located in the `notebooks/` directory.
 ## Run on Google Colab
 
 Lesson 1:  
-https://colab.research.google.com/github/ADAMARRAS/mini-course-DL/blob/main/notebooks/lecture1_fr.ipynb
+https://colab.research.google.com/github/ADAMARRAS/mini-course-DL/blob/main/notebooks/lesson1_fr.ipynb
 
 ## Run locally
 
