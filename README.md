@@ -20,10 +20,10 @@ This repository contains a **Deep Learning mini-course** that I am building whil
 - **Practical Deep Learning for Coders** – fast.ai  
   https://course.fast.ai/  
 
-- **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**  
-  Ioffe, S., & Szegedy, C. (2015)  
-  https://proceedings.mlr.press/v37/ioffe15.pdf  
-
 - **A Neural Probabilistic Language Model**  
   Bengio, Y., Ducharme, R., Vincent, P., & Jauvin, C. (2003)  
   https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
+
+- **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**  
+  Ioffe, S., & Szegedy, C. (2015)  
+  https://proceedings.mlr.press/v37/ioffe15.pdf  
