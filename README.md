@@ -11,7 +11,7 @@ This repository contains a **Deep Learning mini-course** that I am building whil
 | Lesson 2 | One-layer Perceptron from scratch |
 | Lesson 3 | MLP following Bengio et al. (2003) |
 | Lesson 4 | Training stability, BatchNorm, and deep MLP diagnostics |
-| Lesson 5 | ?? |
+| Lesson 5 | GPT from scratch: a decoder-only Transformer |
 
 
 ## References & Learning Resources
@@ -28,4 +28,8 @@ This repository contains a **Deep Learning mini-course** that I am building whil
 
 - **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**  
   Ioffe, S., & Szegedy, C. (2015)  
-  https://proceedings.mlr.press/v37/ioffe15.pdf  
+  https://proceedings.mlr.press/v37/ioffe15.pdf
+
+- **Attention Is All You Need**  
+  Vaswani, A., et al. (2017)  
+  https://arxiv.org/abs/1706.03762
