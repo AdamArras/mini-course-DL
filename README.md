@@ -1,7 +1,6 @@
-# Mini-course: Python & Deep Learning
+# Deep Learning mini-course
 
-This repository contains a **Deep Learning mini-course** that I am building while revisiting these topics myself. 
-
+This repository contains the mini-course that I am building while revisiting these topics myself. 
 
 ## Course structure
 
